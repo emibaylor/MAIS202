@@ -1,4 +1,6 @@
 # MAIS202
+## Coding Challenge for MAIS202 Application, December 2018
+
 
 Run on command line using Python 3.
 
